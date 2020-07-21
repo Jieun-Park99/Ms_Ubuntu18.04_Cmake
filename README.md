@@ -3,8 +3,9 @@
 
 :innocent:__나를 위해 쓰는 글__:innocent:<br>
 윈도우 Microsoft Store에서 Ubuntu를 까는데 Ubuntu, Ubuntu 18.04 LTS, Ubuntu 20.04 LTS가 있다.<br>
-Ubuntu를 깔고 했더니 `cmake build`에서 지속적인 에러가 났는데 Ubuntu 18.04에서는 잘 됐기에 다음에도 `Ubuntu 18.04`를 깔자~<br>
-나중엔 잘 될... 수도... 있겠지만^^
+Ubuntu를 깔고 했더니 `cmake build`에서 지속적인 에러가 났는데 Ubuntu 18.04에서는 잘 됐기에 <br>
+다음에도 `Ubuntu 18.04`를 깔자~<br>
+> 나중엔 잘 될... 수도... 있겠지만^^
 
 ### :point_right: pip3 설치
 ```
